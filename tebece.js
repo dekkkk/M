@@ -2278,7 +2278,7 @@ case 'tbctag': {
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
@@ -2358,13 +2358,13 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
 "productId": "99999999999999",
 
-"title": `FAUZI CATALOG 🔥➥ ${buttonvirus}`,
+"title": `LEENZ CATALOG 🔥➥ ${buttonvirus}`,
 
-"description": `© FAUZI CATALOG ${buttonvirus}`,
+"description": `© LEENZ CATALOG ${buttonvirus}`,
 
 "currencyCode": "IDR",
 
-"footerText": `© FAUZI CATALOG`,
+"footerText": `© LEENZ CATALOG`,
 
 "priceAmount1000": "10000000",
 
@@ -2376,11 +2376,11 @@ var catalog = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 
 "retailerId": `RANZ`,
 
-"url": "wa.me/6285791677204"
+"url": "wa.me/6285880982400"
 
 },
 
-"businessOwnerJid": "6285791677204@s.whatsapp.net",
+"businessOwnerJid": "6285880982400@s.whatsapp.net",
 
 }
 
