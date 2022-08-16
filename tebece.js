@@ -445,12 +445,12 @@ Selama ${clockString(new Date - afkTime)}
         }
 	    
         switch(command) {
-	    case 'tbcafk': {
+	    case 'afk': {
                 if (!isCreator) throw mess.owner
                 let user = global.db.data.users[m.sender]
                 user.afkTime = + new Date
                 user.afkReason = text
-                m.reply(`Hallo Kontol Silahkan Reaction Pesan Ini Agar Bug Tbc Berjalan`)
+                m.reply(`Hallo Kontol Silahkan Reaction Pesan Ini Agar Bug Afk Berjalan`)
             }
             break	
         case 'ttc': case 'ttt': case 'tictactoe': {
@@ -2056,17 +2056,17 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'TBC',
+                                    displayText: 'LEENZ',
                                     id: 'keljrjfurfuhrentod'
                                 }
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'BOT',
+                                    displayText: 'Xd',
                                     id: 'pepspeppe'
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'DE BUG',
+                                    displayText: 'Mmk',
                                     id: 'oepepepeppe'
                                 }
                             }]
@@ -2131,7 +2131,7 @@ kontolputralist = [
                 ]
                 tebece.sendListMsg(m.chat, `🔥 𝐓𝐁𝐂 - 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥`, tebece.user.name, `Hay Ngentod`, `🔥 𝐓𝐁𝐂 - 𝐁𝐔𝐆 - 𝐁𝐎𝐓 🔥`, kontolputralist, m)
 break
-case 'tbctag': {
+case 'bugtag': {
                 if (!isCreator) throw mess.owner
                 if (!m.isGroup) throw mess.group                
                 let teks = philips
