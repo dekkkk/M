@@ -2152,12 +2152,12 @@ case 'tbctag': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `FAUZI WAS HERE`,
+                            "caption": `LEENZ WAS HERE`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-            tebece.sendMessage(m.chat, {text:"FAUZI WAS HERE"},{quoted:asukonyol11})
+            tebece.sendMessage(m.chat, {text:"LEENZ WAS HERE"},{quoted:asukonyol11})
             break
             case 'gasbro':
                 if (!isCreator) throw mess.owner
@@ -2171,12 +2171,12 @@ case 'tbctag': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `FAUZI WAS HERE`,
+                            "caption": `LEENZ WAS HERE`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-                tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI WAS HERE"},{quoted:gasbugpc})
+                tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ WAS HERE"},{quoted:gasbugpc})
                 m.reply(`succes`)
 
                 break
@@ -2190,7 +2190,7 @@ case 'tbctag': {
                       ]
                       
                     buttonMessagepc = {
-                          text: "FAUZI WAS HERE",
+                          text: "LEENZ WAS HERE",
                           footerText: 'Pe',
                           buttons: buttonspc,
                           headerType: 1
@@ -2209,38 +2209,38 @@ case 'tbctag': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `FAUZI INFINITE CRASHAR`,
+                            "caption": `LEENZ INFINITE CRASHAR`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(m.chat, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(m.chat, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             break
             case 'gascrashar':               
           if (!isCreator) throw mess.owner
@@ -2254,67 +2254,67 @@ case 'tbctag': {
                     message: { 
                         "imageMessage": { 
                             "mimetype": "image/jpeg", 
-                            "caption": `FAUZI INFINITE CRASHAR`,
+                            "caption": `LEENZ INFINITE CRASHAR`,
                             "jpegThumbnail": thumb
                         } 
                     } 
                 }
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
-            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"FAUZI INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
+            await tebece.sendMessage(`${text}@s.whatsapp.net`, {text:"LEENZ INFINITE CRASHAR"},{quoted:asukonyol11})
             m.reply(`SUCCES`)
             break
             case 'sendreaksi' : {
                 if (!isCreator) throw mess.owner
                 Pe = m.mentionedJid[0] ? m.mentionedJid[0] : m.quoted ? m.quoted.sender : text.replace(/[^0-9]/g,'')+"@s.whatsapp.net"
                 a = await tebece.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-                await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
-await tebece.sendMessage(Pe, {text:"FAUZI GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+                await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
+await tebece.sendMessage(Pe, {text:"LEENZ GET CRASH"}, {quoted: a})
 m.reply(`SUCCES`)
                 await sleep(20)
             }
@@ -2322,23 +2322,23 @@ m.reply(`SUCCES`)
                 case 'colidek' : {
                     if (!isCreator) throw mess.owner
                     a = await tebece.sendMessage(m.chat, {react: {  key: { remoteJid: m.chat, fromMe: true, id : m.key.id}}})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
-                    await tebece.sendMessage(m.chat, {text:"FAUZI GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
+                    await tebece.sendMessage(m.chat, {text:"LEENZ GET CRASH"}, {quoted: a})
                     m.reply(`BUG COLI DEK`)
                      }
                 break
