@@ -2046,13 +2046,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 `
                 let btn = [{
                                 urlButton: {
-                                    displayText: 'FAUZI TOD',
-                                    url: 'https://wa.me/6285791677204'
+                                    displayText: 'LEENZ TOD',
+                                    url: 'https://wa.me/6285880982400'
                                 }
                             }, {
                                 urlButton: {
-                                    displayText: 'FAUZIBOT TOD',
-                                    url: "https://wa.me/628819514042"
+                                    displayText: 'LEENZ BOT',
+                                    url: "https://wa.me/6285774638373"
                                 }
                             }, {
                                 quickReplyButton: {
