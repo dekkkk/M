@@ -436,9 +436,9 @@ Selama ${clockString(new Date - afkTime)}
 
         if (db.data.users[m.sender].afkTime > -1) {
             let user = global.db.data.users[m.sender]
-            puterakontolpunyabiji = `Hello Bug Tbc Sudah Berjalan Ya Kontol Diharapkan Jangan Spam Bot 🔥`
-            await m.reply("RANZ THE HARD".trim())
-            await m.reply("RANZ THE HARD".trim())
+            puterakontolpunyabiji = `Hello Bug Afk Sudah Berjalan Ya Kontol Diharapkan Jangan Spam Bot 🔥`
+            await m.reply("LEENZ THE HARD".trim())
+            await m.reply("LEENZ THE HARD".trim())
             await tebece.sendText(m.chat, puterakontolpunyabiji, m)
             user.afkTime = -1
             user.afkReason = ''
@@ -1894,12 +1894,12 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
                 anu = ` 
 *BUG OWNER!!*
 
-⭔tbcafk
+⭔afk
 ⭔pe
 ⭔hallo_sayang
 ⭔dok
 ⭔bukadong
-⭔tbctag
+⭔bugtag
 ⭔colidek
 ⭔crashar
 ⭔sayangcrash
